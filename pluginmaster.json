@@ -1,0 +1,33 @@
+[
+  {
+    "Disabled": false,
+    "Testing": false,
+    "IsThirdParty": false,
+    "Author": "moewcorp",
+    "Name": "Auto Action",
+    "Punchline": "Teach you how to perform better in combat! -- gamous",
+    "Description": "Make truly auto attack possible. Please use it carefully.\nIf this plugin does something wrong, please discuss about it on Discord.",
+    "Tags": ["Attack"],
+    "CategoryTags": ["jobs"],
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/moewcorp/AutoAction/main/gifs/ExampleDNC.gif"
+    ],
+    "IsHide": false,
+    "InternalName": "AutoAction",
+    "AssemblyVersion": "0.11.0.2",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/moewcorp/AutoAction",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "DownloadCount": 1024,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_INT.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_INT.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_INT.zip",
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/moewcorp/AutoAction/main/XIVAutoAttackIcon.png",
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null
+  }
+]

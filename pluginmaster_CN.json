@@ -1,0 +1,33 @@
+[
+  {
+    "Disabled": false,
+    "Testing": false,
+    "IsThirdParty": false,
+    "Author": "moewcorp",
+    "Name": "Auto Action",
+    "Punchline": "Teach you how to perform better in combat! -- gamous",
+    "Description": "本插件开源免费！请不要以【任何付费方式】获取本插件！\n如果有不好用的地方或者循环不合理，或者某职业需要添加选项，请及时联系，谢谢！",
+    "Tags": ["Attack"],
+    "CategoryTags": ["jobs"],
+    "IsHide": false,
+    "InternalName": "AutoAction_CN",
+    "AssemblyVersion": "0.11.0.2",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/moewcorp/AutoAction",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "DownloadCount": 1024,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_CN.zip",
+    "DownloadLinkUpdate": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_CN.zip",
+    "DownloadLinkTesting": "https://github.com/moewcorp/AutoAction/releases/latest/download/latest_CN.zip",
+    "LoadPriority": 0,
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/moewcorp/AutoAction/main/gifs/ExampleDNC.gif"
+    ],
+    "IconUrl": "https://raw.githubusercontent.com/moewcorp/AutoAction/main/XIVAutoAttackIcon.png",
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null
+  }
+]
